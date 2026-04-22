@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arif Khan
+# Hi, I'm Arif Khan
 
 IT & Cybersecurity Professional with 20+ years of experience in infrastructure, systems administration, and technical operations.  
 
@@ -6,7 +6,7 @@ I bring a strong background in Windows/Linux environments, Active Directory, net
 
 ---
 
-## 🔐 What I Focus On
+## What I Focus On
 
 - Cybersecurity fundamentals and security operations
 - Network and system security (routing, switching, firewalls, access control)
@@ -16,7 +16,7 @@ I bring a strong background in Windows/Linux environments, Active Directory, net
 
 ---
 
-## 🧠 My Approach
+## My Approach
 
 I believe:
 - Frameworks provide structure  
@@ -30,7 +30,7 @@ Most of my work focuses on bridging the gap between **theory and real-world IT e
 
 ---
 
-## 🧪 Projects (In Progress)
+## Projects (In Progress)
 
 I’m currently building hands-on labs and practical projects focused on:
 
@@ -43,7 +43,7 @@ More projects coming soon as I continue building out my cybersecurity portfolio.
 
 ---
 
-## 🎓 Background
+## Background
 
 - Faculty – Networking, Cybersecurity & Cloud Infrastructure  
 - Southern Alberta Institute of Technology (SAIT)
@@ -55,7 +55,7 @@ More projects coming soon as I continue building out my cybersecurity portfolio.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - Networking: Cisco (Routing & Switching), VLANs, VPNs
 - Security: FortiGate, system hardening, access control
@@ -65,7 +65,7 @@ More projects coming soon as I continue building out my cybersecurity portfolio.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/arifkhan31
 
