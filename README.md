@@ -34,10 +34,10 @@ Most of my work focuses on bridging the gap between **theory and real-world IT e
 
 I’m currently building hands-on labs and practical projects focused on:
 
-- 🔹 Active Directory security and access control
-- 🔹 Network security and segmentation basics
-- 🔹 NIST Cybersecurity Framework practical mapping
-- 🔹 Linux server administration and hardening
+-  Active Directory security and access control
+-  Network security and segmentation basics
+-  NIST Cybersecurity Framework practical mapping
+-  Linux server administration and hardening
 
 More projects coming soon as I continue building out my cybersecurity portfolio.
 
