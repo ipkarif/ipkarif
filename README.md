@@ -71,4 +71,4 @@ More projects coming soon as I continue building out my cybersecurity portfolio.
 
 ---
 
-⭐ I’m currently open to opportunities in cybersecurity, security operations, and infrastructure roles in Calgary or remote environments.
+I’m currently open to opportunities in cybersecurity, security operations, and infrastructure roles in Calgary or remote environments.
